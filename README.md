@@ -22,3 +22,4 @@ node base
 boy is very hard woeking
 nice to meet you base
 hello world basechain
+base network
