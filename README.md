@@ -31,3 +31,4 @@ bord base
 nice base chain
 base node run
 norh eth
+etherium
