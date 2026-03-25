@@ -24,3 +24,4 @@ nice to meet you base
 hello world basechain
 base network
 motion base
+north base
