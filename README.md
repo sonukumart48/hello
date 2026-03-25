@@ -34,3 +34,4 @@ norh eth
 etherium
 arbitrum
 waw
+nirth coria
