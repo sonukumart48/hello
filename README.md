@@ -25,3 +25,4 @@ hello world basechain
 base network
 motion base
 north base
+noth base
