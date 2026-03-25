@@ -33,3 +33,4 @@ base node run
 norh eth
 etherium
 arbitrum
+waw
