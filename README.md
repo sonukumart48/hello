@@ -29,3 +29,4 @@ noth base
 good woeking
 bord base
 nice base chain
+base node run
